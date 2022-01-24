@@ -25,7 +25,7 @@ while($index <= 2){
 foreach ($maVariable as $monNom){
     echo $monNom;
 }
-
+ijoij
 
 
 
